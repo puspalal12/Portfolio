@@ -389,6 +389,7 @@ textarea {
     }
     .project-detail{
         height: auto;
+        width: auto;
     }
     .nav ul{
         width: auto;
